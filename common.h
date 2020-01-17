@@ -10,6 +10,7 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 #include <stdarg.h>
+#include <stdbool.h>
 
 #include <errno.h>
 #include <fcntl.h>
