@@ -22,13 +22,12 @@
 #define MAXLINE 4096
 #define SA struct sockaddr
 
-#define html "text/html"
-#define mp3	"audio/mpeg"
-#define mp4	"video/mp4"
+#define txt "text/plain"
+#define png "image/png"
 #define jpg "image/jpeg"
 #define jpeg "image/jpeg"
-#define png "image/png"
-#define txt "text/plain"
-
+#define html "text/html"
+#define mp3 "audio/mpeg"
+#define mp4 "video/mp4"
 
 #endif
